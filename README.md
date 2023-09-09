@@ -1,4 +1,4 @@
-#                      Python_01
+# Python_01
 This is a repository for learning about GITHUB in a workshop environment. 
 
 #                      Created at/by
@@ -17,6 +17,16 @@ Update Later...
 
 # Using Git's experience
 Update Later...
+
+
+# Using Visual Studio
+Is an app which can connect different coding apps together. 
+- For example, if we want to conect GITHUB we need to press shift+ctrl+p and write GIT CLONE in the tool box.
+- Next, we need to paste the project URL and enter. 
+- After that, we need to press ok and save the file in the place you want.
+- Last, we need to select trust the author and you will find your project!
+
+
 
 # Using Visual Studio
 Is an app which can connect different coding apps together. 
