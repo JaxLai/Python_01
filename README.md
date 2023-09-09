@@ -27,4 +27,4 @@ Is an app which can connect different coding apps together.
 - We need to go to the SOURCE CONTROL and copy the git config --global user.email "you@example.com" and "Your Name" 
 - Then, paste it in the Terminal and write your true email and username that you set in the GITHUB.
 - After that, you can commit it.
-
+- Noob
