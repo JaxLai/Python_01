@@ -28,3 +28,4 @@ Is an app which can connect different coding apps together.
 - Then, paste it in the Terminal and write your true email and username that you set in the GITHUB.
 - After that, you can commit it.
 -Lastly, we need to refresh the GITHUB and we will see the things we write in Visual Studio.
+- Then, we can 
